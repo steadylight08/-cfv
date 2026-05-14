@@ -1,0 +1,8 @@
+{
+  "name": "BollyAI",
+  "description": "Chat with AI versions of 20 young Bollywood actresses. Manage your chats locally with memory and full control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
